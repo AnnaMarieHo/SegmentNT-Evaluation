@@ -1,5 +1,5 @@
 # SegmentNT Evaluation
-As an exploration of Machine Learning I chose to run some analyses on the model SegmentNT. This personal exploration is a downstream study of lab research, serving as a way to delve deeper into machine learning models as applied to clinical datasets. This side project allowed me to additionally familiarize myself with huggingface models and the huggingface platform.
+As an exploration of Machine Learning, I chose to run some analyses on the LLM SegmentNT. This personal exploration is a downstream study of my lab research at the University of Kentucky. It has served as a way to delve deeper into machine learning models as applied to clinical datasets, learn about large scale data analysis, and familiarize myself with huggingface models as well as the huggingface platform.
 
 My testing framework: 
 
