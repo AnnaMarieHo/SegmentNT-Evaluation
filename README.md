@@ -26,7 +26,7 @@ Nucleotide transformers have shown significant potential in functional genomic r
 # DATA PREPARATION
 *The scripts utilized during data preparationare not executable in python notebooks. Additionally, the original datasets are too large to upload. Therefore, I have included samples of the datasets for running the model, and provided an outline of the steps taken to produce sample data like the ones provided*
 
-##### Table of Contents 
+##### Notebook Organization
 * Data Preprocessing
    - Dataset Selection (selection)
    - Sequence Construction (manipulation)
